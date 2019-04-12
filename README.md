@@ -1,9 +1,9 @@
-# competencias-wordpress
-Propuesta de competencias para programadores WordPress niveladas por cinturones de artes marciales
+# Competencias de un desarrollador WordPress
 
-Propuesta de nivelación de competencias de un desarrollador WordPress
 He intentado que la progresión vaya por nivel de dificultad, aunque el verde es un poco más temático.
-Cinturón blanco
+
+## Cinturón blanco
+
 Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura creando páginas y artículos, instalando temas y plugins e incluso puede que hayas creado un blog en wordpress.org. Pero para un aspirante a desarrollador de WordPress esto es haber metido sólo el dedo gordo del pie en el agua. Si quieres iniciarte en este noble arte deberías al menos poder superar los hitos que aparecen más abajo. Entonces podrás empezar a considerarte al menos un implementador de WordPress junior y estar listo para obtener tu cinturón amarillo.
 
 B1. Escribir siempre WordPress, nunca Wordpress o wordpress 😜
@@ -14,8 +14,11 @@ B5. Exportar la páginas y entradas de tu blog en wordpress.com e instalarlas en
 B6. Conocer la estructura de un documento HTML5 y las etiquetas más comunes https://www.dariobf.com/tutorial-html5/
 B7. Conocer lo básico de CSS - https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS - https://uniwebsidad.com/libros/css
 
+### Lecturas
+https://www.ciudadano2cero.com/aprender-programar-wordpress/
 
-Cinturón amarillo
+## Cinturón amarillo
+
 AM1. Evaluar y contratar un hosting (puede ser de bajo costo) y un nombre de dominio.
 AM2. Instalar WordPress en el hosting, descargándolo previamente de https://es.wordpress.org/download/
 AM3. Conocer el archivo wp-config.php y las distintas opciones que podemos configurar en función de nuestras necesidades: desarrollo, producción, seguridad.
@@ -30,7 +33,8 @@ AM11. Conocer la estructura de un tema de WordPress
 AM12. Ejercicio: https://kungfupress.com/deconstruyendo-un-tema-de-wordpress-para-entender-como-funciona/
 AM13. Ejercicio: Crear un tema hijo para introducir modificaciones en un tema de terceros.
 
-Cinturón naranja
+## Cinturón naranja
+
 NA1. Nivel medio de jQuery - https://www.codecademy.com/learn/learn-jquery
 NA2. Conocer el lenguaje PHP a nivel básico: variables, estructuras de control, funciones, 
 NA3. Creación de un tema mínimo desde cero
@@ -41,14 +45,14 @@ NA7. Nociones básicas de SQL
 NA8. Conocer el manejo de phpMyAdmin
 NA9. Conocer los plugins más útiles para un desarrollador de WordPress
 
-Cinturón verde
+## Cinturón verde
 Conocer el ecosistema de WordPress
 V1. Conocer los temas de WordPress más adecuados para cada tipo de instalación
 V2. Conocer los principales plugins de seguridad de WordPress
 V3. Conocer los principales plugins de optimización de WordPress
 V4. Conocer y haber instalado WooCommerce
 
-Cinturón azul
+## Cinturón azul
 AZ1. Nivel medio de Javascript
 AZ2. Actualización de un plugin de creación propia
 AZ3. Conocer React JS
@@ -57,14 +61,14 @@ AZ5. Crear un plugin que implemente un Custom Post Type con Custom Fields
 AZ6. Saber debugear un plugin o tema de WordPress
 AZ7. 
 
-Cinturón marrón
+## Cinturón marrón
 M1. Utilizar APIs de terceros para sincronizar contenidos con WordPress o WooCommerce.
 M2.
 
-Cinturón negro
+## Cinturón negro
 NE1. Subir un plugin al repositorio de WP y que te lo acepten
 NE2. Subir un theme al repositorio de WP y que te lo acepten
 
-Cinturón rojo
+## Cinturón rojo
 R1.
 R2. 

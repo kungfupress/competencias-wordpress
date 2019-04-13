@@ -1,8 +1,8 @@
-# Competencias de un programador WordPress
+# Competencias de un programador WordPress
 
 He intentado que la progresión vaya por nivel de dificultad, aunque el verde es un poco más temático y el rojo lo reservo para el core.
 
-## Cinturón blanco
+# Cinturón blanco
 
 Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura creando páginas y artículos, instalando temas y plugins e incluso puede que hayas creado un blog en wordpress.org. Pero para un aspirante a desarrollador de WordPress esto es haber metido sólo el dedo gordo del pie en el agua. Si quieres iniciarte en este noble arte deberías al menos poder superar los hitos que aparecen más abajo. Entonces podrás empezar a considerarte al menos un implementador de WordPress junior y estar listo para obtener tu cinturón amarillo.
 
@@ -14,11 +14,11 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 6. Conocer la estructura de un documento HTML5 y las etiquetas más comunes https://www.dariobf.com/tutorial-html5/
 7. Conocer lo básico de CSS - https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS - https://uniwebsidad.com/libros/css
 
-### Lecturas
+### Lecturas
 
 * https://www.ciudadano2cero.com/aprender-programar-wordpress/
 
-## Cinturón amarillo
+## Cinturón amarillo
 
 1. Evaluar y contratar un hosting (puede ser de bajo costo) y un nombre de dominio.
 2. Instalar WordPress en el hosting, descargándolo previamente de https://es.wordpress.org/download/
@@ -34,7 +34,7 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 12. Ejercicio: https://kungfupress.com/deconstruyendo-un-tema-de-wordpress-para-entender-como-funciona/
 13. Ejercicio: Crear un tema hijo para introducir modificaciones en un tema de terceros.
 
-## Cinturón naranja
+## Cinturón naranja
 
 1. Nivel medio de jQuery - https://www.codecademy.com/learn/learn-jquery
 2. Conocer el lenguaje PHP a nivel básico: variables, estructuras de control, funciones, 
@@ -46,7 +46,7 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 8. Conocer el manejo de phpMyAdmin
 9. Conocer los plugins más útiles para un desarrollador de WordPress
 
-## Cinturón verde
+## Cinturón verde
 
 Conocer el ecosistema de WordPress
 1. Conocer los temas de WordPress más adecuados para cada tipo de instalación
@@ -54,7 +54,7 @@ Conocer el ecosistema de WordPress
 3. Conocer los principales plugins de optimización de WordPress
 4. Conocer y haber instalado WooCommerce
 
-## Cinturón azul
+## Cinturón azul
 
 1. Nivel medio de Javascript
 2. Actualización de un plugin de creación propia
@@ -63,16 +63,16 @@ Conocer el ecosistema de WordPress
 5. Crear un plugin que implemente un Custom Post Type con Custom Fields
 6. Saber debugear un plugin o tema de WordPress
 
-## Cinturón marrón
+## Cinturón marrón
 
 1. Utilizar APIs de terceros para sincronizar contenidos con WordPress o WooCommerce.
 
-## Cinturón negro
+## Cinturón negro
 
 1. Subir un plugin al repositorio de WP y que te lo acepten
 2. Subir un theme al repositorio de WP y que te lo acepten
 
-## Cinturón rojo
+## Cinturón rojo
 
 Colaborador activo del core o preparado para ello
 1. 

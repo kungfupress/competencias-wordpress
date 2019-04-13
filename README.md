@@ -2,7 +2,7 @@
 
 He intentado que la progresión vaya por nivel de dificultad, aunque el verde es un poco más temático y el rojo lo reservo para el core.
 
-# Cinturón blanco
+## Cinturón blanco
 
 Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura creando páginas y artículos, instalando temas y plugins e incluso puede que hayas creado un blog en wordpress.org. Pero para un aspirante a desarrollador de WordPress esto es haber metido sólo el dedo gordo del pie en el agua. Si quieres iniciarte en este noble arte deberías al menos poder superar los hitos que aparecen más abajo. Entonces podrás empezar a considerarte al menos un implementador de WordPress junior y estar listo para obtener tu cinturón amarillo.
 

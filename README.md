@@ -40,7 +40,7 @@ NA2. Conocer el lenguaje PHP a nivel básico: variables, estructuras de control,
 NA3. Creación de un tema mínimo desde cero
 NA4. Crear un plugin sencillo que funcione mediante un shortcode el front-end
 NA5. Crear un plugin sencillo que implique front-end y back-end 
-NA6. Conocer la estructura de tablas en la base de datos de WordPress.
+NA6. Conocer la estructura de tablas en la base de datos de WordPress - http://www.oscarabadfolgueira.com/guia-la-base-datos-wordpress/
 NA7. Nociones básicas de SQL
 NA8. Conocer el manejo de phpMyAdmin
 NA9. Conocer los plugins más útiles para un desarrollador de WordPress

@@ -30,9 +30,12 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 8. Nociones de JavaScript - https://eu.udacity.com/course/intro-to-javascript--ud803
 9. Nociones de jQuery - https://www.adictosaltrabajo.com/2010/01/18/jquery-intro/ - https://codigofacilito.com/cursos/jquery
 10. Modificar el CSS de un tema usando el inspector de código y el editor de apariencia - https://youtu.be/hMvh-zTRotg
-11. Conocer la estructura de un tema de WordPress
-12. Ejercicio: https://kungfupress.com/deconstruyendo-un-tema-de-wordpress-para-entender-como-funciona/
-13. Ejercicio: Crear un tema hijo para introducir modificaciones en un tema de terceros.
+11. Conocer la estructura de un tema de WordPress.
+12. Tener conocimientos básicos de Git: crear o clonar un repositorio, hacer un commit, deshacer cambios, subir a un repositorio remoto - https://www.youtube.com/watch?v=QGKTdL7GG24
+13. Conocer GitHub y/o GitLab
+14. Ejercicio: https://kungfupress.com/deconstruyendo-un-tema-de-wordpress-para-entender-como-funciona/
+15. Ejercicio: Crear un tema hijo para introducir modificaciones en un tema de terceros.
+16. Crear una cuenta en GitHub, crear un repositorio y clonarlo en local con git. 
 
 ## Cinturón naranja
 

@@ -74,8 +74,8 @@ Conocer el ecosistema de WordPress
 
 1. Subir un plugin al repositorio de WP y que te lo acepten
 2. Subir un theme al repositorio de WP y que te lo acepten
+3. Probar plugins de desarrollo propio con versión beta de WordPress
 
 ## Cinturón rojo
 
-Colaborador activo del core o preparado para ello
-1. 
+Colaborador activo del core de WordPress

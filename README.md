@@ -33,7 +33,7 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 1. Practica: Crear un tema hijo para introducir modificaciones en un tema de terceros.
 1. Aprende: conocimientos básicos de Git: crear o clonar un repositorio, hacer un commit, deshacer cambios, subir a un repositorio remoto - https://www.youtube.com/watch?v=QGKTdL7GG24
 1. Aprende: Conocer GitHub y/o GitLab
-1. Practica: Crea una cuenta en GitHub, crea un repositorio y clonólo en local con git - https://github.com/kungfuclass/como-hacer-los-ejercicios-en-kungfuclass
+1. Practica: Crea una cuenta en GitHub, crea un repositorio y clónalo en local con git - https://github.com/kungfuclass/como-hacer-los-ejercicios-en-kungfuclass
 
 ## Cinturón naranja
 
@@ -46,6 +46,7 @@ Si conoces WordPress a nivel de usuario es posible que tengas cierta soltura cre
 7. Nociones básicas de SQL
 8. Conocer el manejo de phpMyAdmin
 9. Conocer los plugins más útiles para un desarrollador de WordPress
+1. Colabora: Ayudando a traducir algún plugin o tema de los repositorios de WordPress - https://es.wordpress.org/colabora/traducciones/
 
 ## Cinturón verde
 
